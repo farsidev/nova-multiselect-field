@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-multiselect-field",
+  "name": "farsi/nova-multiselect-field",
   "description": "A multiple select field for Laravel Nova.",
   "keywords": [
     "laravel",
@@ -14,8 +14,13 @@
       "role": "Developer"
     },
     {
-      "name": "Optimist Digital",
-      "email": "info@optimistdigital.com",
+      "name": "Ali Sameni",
+      "email": "aliwsome@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Farsi",
+      "email": "info@farsi.dev",
       "role": "Maintainer"
     }
   ],
